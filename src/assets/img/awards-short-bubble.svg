@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="99px" viewBox="0 0 90 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>awards-short-bubble</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="awards-short-bubble" transform="translate(45.000000, 50.500000) scale(1, -1) translate(-45.000000, -50.500000) translate(1.000000, 1.000000)">
+            <g id="Group-2" transform="translate(44.000000, 49.500000) rotate(90.000000) translate(-44.000000, -49.500000) translate(-5.000000, 6.000000)">
+                <g id="Group-3">
+                    <g id="Group-4">
+                        <g id="PAIEMENT-ACCEPTÉ" transform="translate(12.000000, 0.000000)" fill="#FFFFFF" stroke="#F5A623" stroke-width="3">
+                            <g id="VÉLO-LIBRE">
+                                <ellipse id="Oval-124" cx="43" cy="43.5" rx="43" ry="43.5"></ellipse>
+                            </g>
+                        </g>
+                        <g id="ITINERARY" transform="translate(6.000000, 43.500000) rotate(90.000000) translate(-6.000000, -43.500000) translate(4.500000, 38.000000)" fill="#F5A623">
+                            <polygon id="Rectangle-141" points="0 -1.59161573e-11 3 -1.59161573e-11 3 11 0 11"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

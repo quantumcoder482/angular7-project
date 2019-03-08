@@ -1,0 +1,45 @@
+<div class="container">
+  <div class="row login d-sm-flex justify-content-sm-center text-center mt-5 text-md-left align-items-center">
+    <div class="col-md-6 col-12">
+      <h1 class="">Merhaba.</h1>
+      <p>Lütfen sicil numaranız ve İK Portal şifreniz <br> ile giriş yapınız.</p>
+      <br>
+      <div [class]="showError ? 'display-block': 'display-none'">{{message}}</div>
+      <br>
+      <form class="col-12 pl-0 col-md-10" [formGroup]="loginForm">
+        <div class="form-group">
+          <input type="text" class="form-control" formControlName="sicil_number" id="sicil_number"
+                 aria-describedby="sicilHelp" placeholder="Sicil numaranız" #sicil_number>
+          <!--{{ loginForm.get('sicil_number').value }}-->
+          <div
+            *ngIf="loginForm.controls['sicil_number'].invalid && (loginForm.controls['sicil_number'].dirty || loginForm.controls['sicil_number'].touched)"
+            class="">
+            <div *ngIf="loginForm.controls['sicil_number'].errors.required">
+              <!--Person Name is required.-->
+            </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <input type="password" class="form-control" formControlName="password" id="password"
+                 aria-describedby="passwordHelp" placeholder="Şifreniz" #password>
+          <!--{{ loginForm.get('password').value }}-->
+          <div
+            *ngIf="loginForm.controls['password'].invalid && (loginForm.controls['password'].dirty || loginForm.controls['password'].touched)"
+            class="">
+            <div *ngIf="loginForm.controls['password'].errors.required">
+              <!--Person Name is required.-->
+            </div>
+          </div>
+        </div>
+        <button (click)="signIn(sicil_number?.value, password?.value)"
+                [disabled]="loginForm.pristine || loginForm.invalid"
+                class="btn btn-primary col-10 col-md-5">Giriş Yap
+        </button>
+      </form>
+    </div>
+    <div class="col-md-6 col-12 ">
+      <div class="login-img"></div>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="127px" viewBox="0 0 130 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>teacher_vektor</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hakkımızda" transform="translate(-190.000000, -2312.000000)">
+            <g id="teacher_vektor" transform="translate(160.000000, 2259.000000)">
+                <g id="OJXK921" transform="translate(30.000000, 53.000000)">
+                    <path d="M228,127 L2,127 L2,122.772673 L226.084746,122.772673 L226.084746,117.954961 L228,117.954961 L228,127 Z M222.098623,113.906814 L224.013877,113.906814 L224.013877,3 L222.098623,3 L222.098623,113.906814 Z" id="Fill-3" fill="#CAC9C4"></path>
+                    <polygon id="Fill-4" fill="#323136" points="6 112 219 112 219 2 6 2"></polygon>
+                    <polygon id="Fill-5" fill="#3C3A41" points="10 108 215 108 215 7 10 7"></polygon>
+                    <path d="M8.65469267,109.369284 L217.34411,109.369284 L217.34411,4.63047756 L8.65469267,4.63047756 L8.65469267,109.369284 Z M4,114 L222,114 L222,0 L4,0 L4,114 Z" id="Fill-6" fill="#B28F5A"></path>
+                    <polyline id="Fill-7" fill="#836A44" points="9 4.4800885 8.4800885 4.4800885 8.4800885 5 4 0.519911504 4 0 4.5199115 0 9 4.4800885"></polyline>
+                    <polyline id="Fill-8" fill="#836A44" points="217 4.4800885 217.518672 4.4800885 217.518672 5 222 0.519911504 222 0 221.481328 0 217 4.4800885"></polyline>
+                    <polyline id="Fill-9" fill="#836A44" points="217 109.519912 217.518672 109.519912 217.518672 109 222 113.480088 222 114 221.481328 114 217 109.519912"></polyline>
+                    <polyline id="Fill-10" fill="#836A44" points="9 109.519912 8.4800885 109.519912 8.4800885 109 4 113.480088 4 114 4.5199115 114 9 109.519912"></polyline>
+                    <polygon id="Fill-11" fill="#C49E61" points="0 123 226 123 226 114 0 114"></polygon>
+                    <polygon id="Fill-12" fill="#A18352" points="0 123 226 123 226 122 0 122"></polygon>
+                    <polygon id="Fill-13" fill="#D0B381" points="0 116 226 116 226 115 0 115"></polygon>
+                    <path d="M20.0384615,114 L11.9615385,114 C11.4305288,114 11,113.55225 11,113 C11,112.44775 11.4305288,112 11.9615385,112 L20.0384615,112 C20.5694712,112 21,112.44775 21,113 C21,113.55225 20.5694712,114 20.0384615,114" id="Fill-14" fill="#FFFFFE"></path>
+                    <polygon id="Fill-15" fill="#FFFFFE" points="24 114 39 114 39 108 24 108"></polygon>
+                    <polygon id="Fill-16" fill="#C1AA7F" points="24 113 39 113 39 108 24 108"></polygon>
+                    <text id="Migros-Parekende-Aka" font-family="DJBChalkItUp, DJB Chalk It Up" font-size="13" font-weight="normal" letter-spacing="0.4727273" fill="#FFFFFF">
+                        <tspan x="24" y="44">Migros</tspan>
+                        <tspan x="24" y="62">Parekende</tspan>
+                        <tspan x="24" y="80">Akademisi</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

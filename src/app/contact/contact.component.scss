@@ -1,0 +1,78 @@
+.contact {
+  .contact-img {
+    background-image: url('../../assets/img/contact-img.svg');
+    height: 400px;
+    background-size: 100% 100%;
+  }
+
+  .address {
+    font-weight: bold;
+  }
+
+  .social a {
+    height: 55px;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    background-size: 100% 100%;
+  }
+
+  .tw-icon {
+    background-image: url('../../assets/img/tw.svg');
+  }
+
+  .fb-icon {
+    background-image: url('../../assets/img/fb.svg');
+  }
+
+  .in-icon {
+    background-image: url('../../assets/img/in.svg');
+  }
+}
+
+#map_canvas {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  min-height: 400px;
+}
+
+.map {
+  width: 100%;
+  position: relative;
+
+  .loc-card {
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 999999;
+    right: 0;
+    margin: 10px auto;
+    padding: 0;
+
+    .card {
+      padding: 10px 0;
+    }
+  }
+
+  #location {
+    background-image: url('../../assets/img/map-select.svg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+    border: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    height: 35px;
+    font-size: 11px;
+    padding-left: 61px;
+    z-index: 999999999999;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    background-color: transparent;
+  }
+}

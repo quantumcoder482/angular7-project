@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1319px" viewBox="0 0 1024 1319" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Kaynaklarımız" transform="translate(0.000000, -681.000000)">
+            <g id="Group" transform="translate(-229.000000, 681.000000)">
+                <rect id="Rectangle" fill="#FAFAFA" fill-rule="nonzero" x="229" y="0" width="1075" height="1362"></rect>
+                <path d="M681.000032,525.488562 C1024.72376,617.853777 1362,417.296748 1362,283.835383 C1362,150.374017 1074.21845,333.178936 712.955721,175.359955 C595.898623,124.223122 249.882158,32.6709792 127.36792,34.0146267 C-0.810210549,35.4203918 6.37468346e-05,215.597054 6.37468346e-05,283.835383 C6.37468346e-05,417.296748 337.276299,433.123347 681.000032,525.488562 Z" id="Oval" fill-opacity="0.36" fill="#ECF0F1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

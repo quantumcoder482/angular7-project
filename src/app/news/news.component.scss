@@ -1,0 +1,30 @@
+.card {
+  position: relative;
+  border-radius: 12px;
+  margin-bottom: 50px;
+
+  span {
+    position: absolute;
+    top: 30px;
+    right: 20px;
+    padding: 5px;
+    font-size: 10px;
+  }
+
+  .card-title {
+    margin: 12px;
+    font-size: 16px;
+  }
+
+  .card-content {
+    font-size: 14px;
+    margin: 12px;
+    margin-top: -5px;
+    line-height: 24px;
+
+    .arrow-btn {
+      float: right;
+      margin-right: 10px
+    }
+  }
+}

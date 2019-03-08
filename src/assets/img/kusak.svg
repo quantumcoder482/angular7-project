@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="307px" height="106px" viewBox="0 0 307 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.0%" y="-8.6%" width="105.9%" height="117.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hakkımızda" transform="translate(-7.000000, -1746.000000)">
+            <g id="Group" filter="url(#filter-1)" transform="translate(10.000000, 1706.000000)">
+                <g transform="translate(0.000000, 85.000000)" id="Shape">
+                    <g transform="translate(0.000000, 1.000000)">
+                        <path d="M83.6014372,0.578368421 C50.7620977,6.58089474 19.3934279,14.9857105 0.154623256,22.9151842 L26.5424,31.3498421 L11.136186,53.7761842 C31.165107,45.8275263 58.796,38.5162105 90.5692093,33.0636316 L83.6014372,0.578368421 Z" fill="#EF9122"></path>
+                        <path d="M87.0147395,16.497 L90.5713163,33.0615 L53.36,23.1858947 C53.362107,23.1880263 68.2289349,17.9464737 87.0147395,16.497 Z" fill="#D3771C"></path>
+                    </g>
+                    <g transform="translate(209.697674, 0.000000)">
+                        <path d="M7.23957209,0.578368421 C40.0789116,6.58089474 71.4475814,14.9857105 90.686386,22.9151842 L64.3007163,31.3498421 L79.7048233,53.7761842 C59.6780093,45.8275263 32.0471163,38.5162105 0.273906977,33.0636316 L7.23957209,0.578368421 Z" fill="#EF9122"></path>
+                        <path d="M3.81994884,17.497 L0.267586047,34.0615 L37.4767953,24.1858947 C37.4789023,24.1880263 22.6078605,18.9464737 3.81994884,17.497 Z" fill="#D3771C"></path>
+                    </g>
+                </g>
+                <path d="M248.748047,74.7155117 C223.037888,66.389868 200.105037,61 153.661952,61 C106.89201,61 80.6729716,66.4708406 55,74.8899142 L61.8542156,106 C87.730739,98.7664483 110.845612,94.1759251 153.661952,94.1759251 C196.178836,94.1759251 216.021222,98.697933 241.88796,105.850512 L248.748047,74.7155117 Z" id="Shape" fill="#EF9122"></path>
+                <path d="M257.748047,65.7155117 C232,54.6679688 205.725379,42.0625 154.967538,42.0625 C103.852474,42.0625 73,51.6328125 46,65.8899142 L53.4910008,97 C81.7715609,89.7664483 107.033902,85.1759251 153.828058,85.1759251 C200.294937,85.1759251 221.980764,89.697933 250.250629,96.8505121 L257.748047,65.7155117 Z" id="Shape" fill="#EF9122"></path>
+                <text id="Toplam-eğitim-günü:" font-family="OpenSans-Light, Open Sans" font-size="13" font-weight="300" letter-spacing="0.4727273" fill="#FFFFFF">
+                    <tspan x="89.7832031" y="60.6289062">Toplam eğitim günü:</tspan>
+                </text>
+                <text id="533.000-gün!" font-family="OpenSans-Bold, Open Sans" font-size="24" font-weight="bold" letter-spacing="0.4727273" fill="#FFFFFF">
+                    <tspan x="168" y="113">533.000 gün</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

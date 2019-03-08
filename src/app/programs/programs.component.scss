@@ -1,0 +1,103 @@
+.programs {
+  .programs-img {
+    background-image: url('../../assets/img/program-img.svg');
+    height: 185px;
+    background-size: 100% 100%;
+  }
+}
+ 
+@media screen and (min-width: 769px) {
+  .programs-img {
+    background-image: url('../../assets/img/program-img.svg');
+    height: 280px!important;
+    background-size: 100% 100%;
+  }
+  .nomobile {
+    padding: 0 20px;
+  }
+}
+.center .slick-center h3 {
+  -moz-transform: scale(1.08);
+  -ms-transform: scale(1.08);
+  -o-transform: scale(1.08);
+  -webkit-transform: scale(1.08);
+  color: #e67e22;
+  opacity: 1;
+  transform: scale(1.08);
+
+}
+
+.center h3 {
+  opacity: 0.8;
+  transition: all 300ms ease;
+  font-weight: bold;
+}
+
+.cl {
+  height: 200px;
+  padding: 10px;
+}
+
+.cl-yellow {
+  background: #f1c40f;
+}
+
+.cl-blue {
+  background: #3498db;
+}
+
+.cl-red {
+  background: #e74c3c;
+}
+
+:host /deep/ .slick-active {
+  padding: 20px 0 40px 0;
+}
+
+:host /deep/ .slick-center {
+  transform: scale(1.08)
+}
+
+:host /deep/ .slick-slide:not(.slick-active) {
+  margin: 20px 0;
+}
+
+.child {
+  width: 100%;
+}
+
+:host /deep/ .slide:not(.slick-active) {
+  cursor: pointer;
+}
+ 
+.slide {
+  .item {
+    background: #FFFFFF;
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.20);
+    /*    max-height: 120px;
+        position: relative;
+        // overflow: hidden;*/
+        
+
+    .read-more {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      text-align: center;
+      margin: 0;
+      padding: 30px 0;
+
+      /* "transparent" only works here because == rgba(0,0,0,0) */
+      background-image: linear-gradient(to bottom, transparent, black);
+    }
+  }
+
+  img {
+    width: 100%;
+    margin: 0 auto;
+  }
+}
+
+
+

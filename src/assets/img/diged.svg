@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="98px" height="98px" viewBox="0 0 98 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hakkımızda" transform="translate(-111.000000, -2930.000000)">
+            <g id="Group" transform="translate(111.000000, 2930.000000)">
+                <path d="M97.598,54.886 L77.736,52.544 C77.871,51.398 77.94,50.237 77.94,49.094 C77.94,33.244 65.046,20.35 49.198,20.35 L49.198,0.35 C76.074,0.35 97.94,22.216 97.94,49.094 C97.939,51.017 97.825,52.966 97.598,54.886 Z" id="Shape" fill="#F6D959"></path>
+                <path d="M9.466,77.341 C3.57,69.059 0.453,59.291 0.453,49.094 C0.453,22.216 22.32,0.35 49.197,0.35 L49.197,20.35 C33.347,20.35 20.453,33.245 20.453,49.094 C20.453,55.11 22.288,60.865 25.759,65.741 L9.466,77.341 Z" id="Shape" fill="#ED8080"></path>
+                <path d="M49.197,97.838 C33.456,97.838 18.604,90.176 9.466,77.341 L25.759,65.741 C31.152,73.315 39.913,77.838 49.197,77.838 C63.753,77.838 76.022,66.96 77.737,52.535 L97.597,54.894 C94.688,79.376 73.88,97.838 49.197,97.838 Z" id="Shape" fill="#F6D959"></path>
+            </g>
+        </g>
+    </g>
+</svg>

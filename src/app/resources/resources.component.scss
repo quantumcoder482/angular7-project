@@ -1,0 +1,41 @@
+$spacer: 1rem !default;
+
+.res-header {
+  .res-img {
+    background-image:url('../../assets/img/resources-img.svg');
+    height: 400px;
+    background-size: 100% 100%;
+  }
+}
+
+.container-fluid {
+  background-image:url('../../assets/img/res-bg.svg');
+  background-size: cover;
+  padding-bottom: ($spacer * 8);
+  margin-bottom: ($spacer * -12);
+  .apps {
+    .logo {
+      img {
+        width: 100%;
+      }
+    }
+    .ios {
+      background-image:url('../../assets/img/ios.svg');
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      width: 100%;
+      height: 4vh;
+
+    }
+    .android {
+      background-image:url('../../assets/img/android.svg');
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      width: 100%;
+      height: 4vh;
+    }
+    h6 {
+      font-weight: bold;
+    }
+  }
+}

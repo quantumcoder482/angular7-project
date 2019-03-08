@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="615px" height="441px" viewBox="0 0 615 441" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>odullerimiz</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EC610A" offset="0%"></stop>
+            <stop stop-color="#D0021B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFEC00" offset="0%"></stop>
+            <stop stop-color="#F5A623" offset="100%"></stop>
+        </linearGradient>
+        <path d="M341.309111,514.552769 C348.73731,515.925948 361.987452,518.435919 373.620792,519.440336 C379.278758,519.928843 384.655017,520.735548 387.911376,521.294365 C394.869706,522.488469 405.713224,521.925832 412.506266,522.348792 C416.189667,522.578134 419.79306,522.718612 423.370883,522.83228 C611.365038,528.804867 655.096949,374.032972 707.371642,255.153017 C765.100048,123.870556 552.296316,0 361.001207,0 C169.706098,0 -60.6566913,114.235897 14.6307714,255.153017 C64.4493004,348.3994 107.65757,404.25799 192.269228,449.369424 C220.919883,464.644768 244.697039,485.74081 278.996456,499.904404 C296.481832,507.124811 323.118587,511.190065 341.309111,514.552769 Z" id="path-3"></path>
+        <path d="M20.4391807,0.268924338 L98.2655156,0.268924338 C106.221894,0.268924338 112.671813,6.66047726 112.671813,14.5448573 L112.671813,84.089616 C112.671813,130.382506 74.8013163,167.910308 28.0856912,167.910308 L0.542389957,167.910308 L20.4391807,0.268924338 Z M20.6953727,26.388203 L13.5239148,141.727261 L33.8810358,136.075151 C62.0462671,128.255137 82.1342373,103.63112 83.9486944,74.7017591 L86.5034663,33.968959 C86.5127125,33.8215403 86.5173389,33.6738727 86.5173389,33.5261695 C86.5173389,29.5839795 83.2923794,26.388203 79.3141902,26.388203 L20.6953727,26.388203 Z" id="path-5"></path>
+        <filter x="-2.7%" y="-1.8%" width="105.4%" height="103.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-6" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <path d="M216.12954,-2.84217094e-14 L339.4696,-2.93098879e-14 C340.90554,-2.95736658e-14 342.0696,1.16405965 342.0696,2.6 L342.0696,124.338842 C342.0696,158.70794 329.059783,190.939744 303.04015,221.034255 C266.933784,262.795159 230.217978,269.109245 235.34475,318.719533 L216.933902,318.865026 L216.531721,318.868204 L216.12954,318.871383 L197.718691,318.719533 C202.845463,269.109245 166.129658,262.795159 130.023292,221.034255 C104.003658,190.939744 90.9938419,158.70794 90.9938419,124.338842 L90.9938419,2.6 C90.9938419,1.16405965 92.1579016,-2.19214384e-14 93.5938419,-2.93098879e-14 L216.12954,-2.84275017e-14 Z" id="path-7"></path>
+        <filter x="-1.2%" y="-0.9%" width="102.4%" height="101.9%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="6" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Ödüllerimiz" transform="translate(-368.000000, -227.000000)">
+            <g id="odullerimiz" transform="translate(324.000000, 118.000000)">
+                <path d="M353.645387,544.640506 C561.987149,577.165158 601.22537,454.914788 650.741367,359.820253 C700.257364,264.725718 517.726966,175 353.645387,175 C189.563808,175 -8.02770595,257.746846 56.5494064,359.820253 C99.2807807,427.363331 136.342267,467.824536 208.91712,500.501033 C246.019864,517.206375 307.436187,537.426694 353.645387,544.640506 Z" id="Oval" fill="url(#linearGradient-1)"></path>
+                <path d="M353.645387,516.640506 C561.987149,549.165158 601.22537,426.914788 650.741367,331.820253 C700.257364,236.725718 517.726966,147 353.645387,147 C189.563808,147 -8.02770595,229.746846 56.5494064,331.820253 C99.2807807,399.363331 136.342267,439.824536 208.91712,472.501033 C246.019864,489.206375 307.436187,509.426694 353.645387,516.640506 Z" id="Oval" fill="url(#linearGradient-2)"></path>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Oval"></g>
+                <g id="kupa" mask="url(#mask-4)">
+                    <g transform="translate(141.000000, 109.000000)">
+                        <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(322.981969, 26.450161)">
+                            <path d="M20.4391807,0.268924338 L98.2655156,0.268924338 C106.221894,0.268924338 112.671813,6.66047726 112.671813,14.5448573 L112.671813,84.089616 C112.671813,130.382506 74.8013163,167.910308 28.0856912,167.910308 L0.542389957,167.910308 L20.4391807,0.268924338 Z M20.6953727,26.388203 L13.5239148,141.727261 L33.8810358,136.075151 C62.0462671,128.255137 82.1342373,103.63112 83.9486944,74.7017591 L86.5034663,33.968959 C86.5127125,33.8215403 86.5173389,33.6738727 86.5173389,33.5261695 C86.5173389,29.5839795 83.2923794,26.388203 79.3141902,26.388203 L20.6953727,26.388203 Z" id="Combined-Shape" fill="#FFC300"></path>
+                        </g>
+                        <g id="Group-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(56.518031, 110.450161) scale(-1, 1) translate(-56.518031, -110.450161) translate(0.018031, 26.450161)">
+                            <g id="Combined-Shape">
+                                <use fill="#FFC300" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                        <rect id="Rectangle-2" stroke="none" fill="#FFC300" fill-rule="evenodd" x="79.2476077" y="411.446945" width="277.504785" height="11.755627" rx="5.8778135"></rect>
+                        <g id="Combined-Shape" stroke="none" fill="none">
+                            <use fill="#FFC300" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        </g>
+                        <rect id="Rectangle" stroke="none" fill="#EC610A" fill-rule="evenodd" x="129.169103" y="317.401929" width="179.130073" height="96.9839228"></rect>
+                        <rect id="Rectangle-Copy" stroke="none" fill="#FFC300" fill-rule="evenodd" x="158.534689" y="339.44373" width="120.398901" height="52.9003215"></rect>
+                        <polygon id="Star" stroke="none" fill="#EC610A" fill-rule="evenodd" points="217.26586 148.414791 177.566347 169.30275 185.148279 125.061343 153.030698 93.7294043 197.416103 87.27467 217.26586 47.022508 237.115617 87.27467 281.501023 93.7294043 249.383442 125.061343 256.965374 169.30275"></polygon>
+                        <path d="M118.891148,96.9839228 C120.814038,130.875328 126.197729,156.835671 135.04222,174.864952" id="Path-2" stroke="#EC610A" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M146.788455,196.906752 C153.31608,207.195256 158.69977,214.542523 162.939527,218.948553" id="Path-3" stroke="#EC610A" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+                <text id="MPA" mask="url(#mask-4)" font-family="OpenSans-Bold, Open Sans" font-size="28" font-weight="bold" fill="#294859">
+                    <tspan x="328" y="484">MPA</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

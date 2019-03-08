@@ -1,0 +1,52 @@
+<div class="container">
+  <div class="row contact text-center">
+    <div class="col-xl-6">
+      <h1 class="pb-5 pt-5">BİZE ULAŞIN</h1>
+      <div class="address mt-5">
+        Müşteri Hizmetleri Hattı: 444 10 44
+        <br><br>
+        E-posta: iletisim@migros.com.tr
+        <br><br>
+        Migros Ticaret A.Ş. Genel Müdürlük
+        <br><br>
+        Adres: Atatürk Mah. Turgut Özal Bulvarı <br>
+        No:7 34758 Ataşehir / İstanbul <br>
+        Telefon: 0 216 579 30 00
+        <div class="social col-lg-12 mb-5 mt-3">
+          <a href="#" class="tw-icon col-lg-2 btn mt-2 col-4" role="button"></a>
+          <a href="#" class="fb-icon col-lg-2 btn col-4"></a>
+          <a href="#" class="in-icon col-lg-2 btn col-4"></a>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6">
+      <div class="contact-img">
+
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="map">
+      <select id="location" class="col-8 mt-3" [(ngModel)]="selectTable" (ngModelChange)="ChangeTable($event)">
+        <option selected>Select item</option>
+        <option *ngFor="let table of tables" [value]="table.title">
+          {{table.location}}
+        </option>
+      </select>
+      <div class="loc-card col-10 col-md-5">
+        <div class="card">
+          <img class="card-img-left" src="../../assets/img/migros_logo.svg" alt="Card image cap">
+          <div class="card-body text-center">
+            <h5 class="card-title">{{selectTable}}</h5>
+            <p class="card-text">{{selectTable.description}}</p>
+
+          </div>
+        </div>
+      </div>
+
+      <div id="map_canvas"></div>
+    </div>
+  </div>
+</div>

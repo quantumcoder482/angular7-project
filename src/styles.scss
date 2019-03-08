@@ -1,0 +1,170 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "../node_modules/slick-carousel/slick/slick.scss";
+@import "../node_modules/slick-carousel/slick/slick-theme.css";
+
+html {
+  font-size: .75rem;
+}
+
+@media (min-width: 576px) {
+  html {
+    font-size: .25rem;
+  }
+
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: .5rem;
+  }
+}
+
+@media (min-width: 992px) {
+  html {
+    font-size: .75rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  html {
+    font-size: 1rem;
+  }
+}
+
+$dark: #4A4A4A;
+$white: #fff;
+
+body {
+  color: #4A4A4A !important;
+  font-family: "Open Sans", sans-serif;
+  min-height: 100vh;
+
+}
+
+h1 {
+  font-weight: bold;
+}
+
+button {
+  border: none;
+}
+
+.menu {
+  background-image: url('assets/img/menu.svg');
+  width: 100%;
+  height: 15px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: transparent;
+}
+
+_:-ms-fullscreen, :root .menu {
+  max-width: 15px;
+}
+
+.collapse-menu {
+  a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    color: $dark;
+  }
+}
+
+.btn-primary {
+  background-image: linear-gradient(-180deg, #B32A30 0%, #F76B1C 100%);
+  color: $white;
+  padding: 5px 30px;
+  border-radius: 5px;
+  border-color: currentColor !important;
+}
+
+footer {
+  background-image: url('assets/img/footer.png');
+  height: 200px;
+  background-size: 100% 100%;
+}
+
+.yellow {
+  background-color: #F6D959;
+}
+
+.pink {
+  background-color: #ED8080;
+}
+
+.whiteColor {
+  color: #ffffff;
+}
+
+.button-two {
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  transition: all 0.5s;
+}
+
+
+.button-two span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button-two span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button-two:hover span {
+  padding-right: 25px;
+}
+
+.button-two:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+@keyframes showNav {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.display-block {
+  color: red;
+  display: block;
+  animation: showNav 250ms ease-in-out both;
+}
+
+.error-border {
+  border: 1px solid red;
+}
+
+
+@include media-breakpoint-only(md) {
+  //TODO: iPad Pro'da kontrol eder misin?
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 160px;
+    line-height: 60px; /* Vertically center the text there */
+
+  }
+}
+
+html, body {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+}

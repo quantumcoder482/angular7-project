@@ -1,0 +1,48 @@
+<nav class="navbar navbar-expand-lg">
+  <div class="container">
+
+    <a href="#" class="navbar-brand col-4 col-md-2">
+      <img src="../assets/img/logo.png" alt="" width="60%" height="60%">
+    </a>
+    <div class="col-5 d-md-block col-md-6"></div>
+    <div class="collapse-menu d-none d-md-none col-md-6" id="collapsingNavbar">
+      <ul class="nav navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link"
+             href="https://ikportal.migros.com.tr/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-client=001&sap-ui-language=TR&sap-ui-appcache=false&sap-ushell-config=headerless#ZFIORI_LSO-CATALOG">Eğitimler</a>
+        </li>
+        <!--<li class="nav-item">
+          <a class="nav-link" href="#">Dijital Kaynaklarımız</a>
+        </li>-->
+      </ul>
+    </div>
+    <a href="/login"
+       class="justify-content-right btn-lgn mr-3 btn-primary d-none d-md-block col-md-2 text-center button-two">
+      <span>Giriş yap</span>
+    </a>
+    <button class="justify-content-right menu col-2 col-md-1" placement="bottom"
+            ngbTooltip="Migros Perakende Akademisi, yeni yüzüyle çok yakında yayında!">
+    </button>
+    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
+            aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="icon-bar top-bar"></span>
+      <span class="icon-bar middle-bar"></span>
+      <span class="icon-bar bottom-bar"></span>
+    </button>
+
+  </div>
+</nav>
+
+<router-outlet></router-outlet>
+
+
+<footer class="footer mt-5 d-flex align-items-end" *ngIf="router.url != '/iletisim'">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-3">
+        <div class="whiteColor text-right">@2019 - Migros Ticaret AŞ</div>
+      </div>
+    </div>
+  </div>
+</footer>
+

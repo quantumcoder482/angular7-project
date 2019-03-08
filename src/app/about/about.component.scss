@@ -1,0 +1,125 @@
+$spacer: 1rem;
+
+.about-top {
+  background-color: #FAFAFA;
+
+  .about-img {
+    background-image: url('../../assets/img/about-img.svg');
+    height: 340px;
+    background-size: 100% 100%;
+  }
+}
+ @media screen and (max-width:450px){
+  .about-content {
+      padding-top: 0px;
+       background-image: url('../../assets/img/about-content.svg');
+     background-color: #fbdfb0;
+    background-size: 100% 200%!important;
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
+}
+.about-content {
+  padding-top: 40%;
+  background-image: url('../../assets/img/about-content.svg');
+  background-size: 100% 100%;
+   background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+.rocket {
+  background-image: url('../../assets/img/rocket.svg');
+  background-size: 100% 100%;
+  height: 300px;
+}
+
+.infographic {
+  .full {
+    background-color: #FAFAFA;
+  }
+
+  h3 {
+    font-weight: bold;
+  }
+
+  .ribbon {
+    background-image: url('../../assets/img/ribbon.png');
+    background-size: 100% 100%;
+    height: 106px;
+  }
+
+  .header {
+    font-size: 14px;
+    color: #4A4A4A;
+    letter-spacing: 0.26px;
+  }
+
+  .value {
+    font-size: 25px;
+    color: #4A4A4A;
+    letter-spacing: 1.2px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .border {
+    height: 3px;
+    background-color: #D8D8D8;
+  }
+
+  .people {
+    background-image: url('../../assets/img/people.svg');
+    background-size: 100% 100%;
+    height: 257px;
+  }
+
+  .school {
+    background-image: url('../../assets/img/school.svg');
+    background-size: 100% 100%;
+    height: 424px;
+  }
+
+  .percent99 {
+    background-image: url('../../assets/img/99.svg');
+    background-size: 100% 100%;
+    height: 130px;
+  }
+
+  .percent90 {
+    background-image: url('../../assets/img/99.svg');
+    background-size: 100% 100%;
+    height: 130px;
+  }
+
+  .diged {
+    background-image: url('../../assets/img/diged.svg');
+    background-size: 100% 100%;
+    height: 130px;
+  }
+
+  .oval {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+}
+
+
+@media (min-width: 992px) {
+  .infographic {
+    .header {
+      font-size: 40px;
+    }
+
+    .value {
+      font-size: 59px;
+    }
+
+    .people {
+      height: 460px;
+    }
+  }
+}

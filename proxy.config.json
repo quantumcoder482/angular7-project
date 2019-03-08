@@ -1,0 +1,8 @@
+{
+  "/UserService/*": {
+    "target": "https://ikportal.migros.com.tr",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
